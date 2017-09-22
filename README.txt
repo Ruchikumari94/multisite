@@ -4,7 +4,7 @@ CONTENTS OF THIS FILE
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-* tesing for jekins
+* tesing for jekins merging
 =======
  * new changes begin for remote server
 >>>>>>> 7f5e18a2f57810f94b6cf161d86f042c50aa423e
