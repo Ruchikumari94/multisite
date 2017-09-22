@@ -1,4 +1,3 @@
-ruchi
 CONTENTS OF THIS FILE
 ---------------------
 <<<<<<< HEAD
@@ -15,7 +14,7 @@ CONTENTS OF THIS FILE
  * About Drupal
 =======
 =======
-iu* changes in tesing  
+ * changes in tesing for multisite  
 >>>>>>> dev
  * About Drupal and Integrartion
 >>>>>>> d1dfc13e7af81b7c9a54691f33715914f3960a8d
